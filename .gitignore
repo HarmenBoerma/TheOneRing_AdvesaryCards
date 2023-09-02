@@ -3,4 +3,5 @@
 /data/output/advesaries.txt
 
 # Images
-/images/advesaries/
+/images/advesaries/*.png
+!/images/advesaries/test.png

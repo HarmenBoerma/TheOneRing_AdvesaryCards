@@ -10,7 +10,7 @@ To install NanDeck, go to https://www.nandeck.com/ and install the latest versio
 
 To have the same fonts as the books, go to the fonts folder in this directory and copy them to the same folder as nandeck.exe. The fonts wil automatically load on start.
 
-For all the advesary card art, drop you images in "./images/advesaries". The name of the advesary should be exacly the same as in the csv file.
+For all the advesary card art, drop you images in "./images/advesaries". The name of the advesary should be exacly the same as in the csv file. The size is 1200 x 925 px. I made them with GIMP.
 
 The data file is in csv format. It contains all the information that is needed to generator the cards. It is strucutred in two parts, the front and the back card. First all the information of the front cards is listed. After this all the back cards are shown. 
 
