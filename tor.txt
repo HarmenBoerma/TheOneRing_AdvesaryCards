@@ -1,4 +1,4 @@
-LINK= C:\Users\Harmen\Desktop\NanDeck\TheOneRing_AdvesaryCards\data\output\advesaries.csv
+LINK= C:\.....\NanDeck\TheOneRing_AdvesaryCards\data\output\advesaries_conversion.csv
 
 ; Settings
 unit=mm
