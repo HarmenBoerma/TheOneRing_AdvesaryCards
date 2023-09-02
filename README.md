@@ -16,5 +16,7 @@ The data file is in csv format. It contains all the information that is needed t
 
 Change the LINK variable to the location of you advesary csv file.
 
+When printed to PDF the cards are automaticaly arranged in suche a way that the front and back side are correctly positioned. 
+
 ## Advesary data generator
 Script made to generator the csv file from a text file. The text file contains the table information from the books. Just copy the advesary table and past it into the text file. Leave a new line between advesaries. 

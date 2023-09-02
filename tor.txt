@@ -1,4 +1,4 @@
-LINK=; path to the csv file. Something like: C\.....\data\output\advesaries_conversion.csv
+LINK= C:\Users\Harmen\Desktop\NanDeck\TheOneRing_AdvesaryCards\data\output\advesaries.csv
 
 ; Settings
 unit=mm
