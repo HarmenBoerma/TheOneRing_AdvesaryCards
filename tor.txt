@@ -1,0 +1,81 @@
+LINK=; path to the csv file. Something like: C\.....\data\output\advesaries_conversion.csv
+
+; Settings
+unit=mm
+canvassize= 63.5, 88
+BORDER=RECTANGLE,#000000,0.5, MARKDOT
+GAP = 5, 5
+
+
+; Front Card
+IF = [position] = front
+    VISUAL=HVG, 10, 10
+    ;Image(snap)
+    IMAGE="1-{(card_layout)}",[card_layout],0%,0%,100%,100%
+    ;IMAGE
+    IMAGE="1-{(IMAGE)}",[IMAGE],0%,{80/9}%,100%,{433/9}%
+    FONT=Arial,10,T,#000000
+    ;ATTRIBUTE_LEVEL
+    TEXT="1-{(ATTRIBUTE_LEVEL)}",[ATTRIBUTE_LEVEL],43.5%,{544/9}%,{38/3}%,{59/9}%
+    FONT=Aniron,8,TB,#000000
+    ;NAME
+    TEXT="1-{(NAME)}",[NAME],0%,{638/9}%,100%,{59/9}%
+    FONT=Arial Narrow,5,TI,#000000
+    ;FLAVOR_TEXT
+    TEXT="1-{(FLAVOR_TEXT)}",[FLAVOR_TEXT],6%,{703/9}%,{268/3}%,{34/3}%,CENTER,WORDWRAP
+    FONT=Arial,5,BT,#000000
+    ;DISTINCTIVE_FEATURE
+    TEXT="1-{(DISTINCTIVE_FEATURES)}",[DISTINCTIVE_FEATURES],0%,{809/9}%,100%,{16/3}%
+    ENDVISUAL
+
+; Back Card
+ELSEIF = [position] = back
+    VISUAL=HVG, 10, 10
+    IMAGE="1-{(card_layout)}",[card_layout],0%,0%,100%,100%
+    FONT=Kereru,15,T,#000000
+    ;MIGHT
+    TEXT="1-{(MIGHT)}",[MIGHT],{41/6}%,{136/9}%,12%,{23/3}%
+    ;HATE / RESOLVE can be find below
+    ;ENDURANCE
+    TEXT="1-{(ENDURANCE)}",[ENDURANCE],44%,15%,{38/3}%,{79/9}%
+    ;PARRY
+    TEXT="1-{(PARRY)}",[PARRY],{373/6}%,{43/3}%,{83/6}%,10%
+    ;ATTRIBUTE_LEVEL
+    TEXT="1-{(ARMOUR)}",[ARMOUR],{485/6}%,{130/9}%,{83/6}%,{88/9}%
+    FONT=Arial,7,T,#000000
+    TEXT=,"Might",0%,{83/9}%,26%,{17/3}%
+    TEXT=,"Endurance",{221/6}%,{83/9}%,28%,{50/9}%
+    TEXT=,"Parry",{353/6}%,9%,{64/3}%,{50/9}%
+    TEXT=,"Armour",{463/6}%,{85/9}%,22%,{47/9}%
+    ;Weapon_text
+    TEXT=,"Weapons",0%,27%,100%,{22/3}%
+    HTMLFONT=FontName,Arial,6,T,#000000
+    ;Weapon_table
+    HTMLTEXT="1-{(WEAPONS)}",[WEAPONS],{29/6}%,33%,{539/6}%,{190/9}%,#FFFFFF,0,TA,100,FontName
+    ;Fell_Abilities_text
+    TEXT=,"Fell Abillities",0%,{470/9}%,100%,{79/9}%
+    HTMLFONT=FontName2,Arial,4,T,#000000
+    HTMLTEXT="1-{(FELL_ABILITIES)}",[FELL_ABILITIES],{29/6}%,60%,{541/6}%,34%,#FFFFFF,0,AT,100,FontName2,FontName2
+    ENDVISUAL
+
+    ; Sorting out Hate or Resolve value
+    IF =[HATE] = -
+        ;RESOLVE
+        FONT=Arial,7,T,#000000
+        TEXT=,"Resolve",22.5%,{28/3}%,18%,{50/9}%
+        FONT=Kereru,15,T,#000000
+        TEXT="1-{(RESOLVE)}",[RESOLVE],26%,{46/3}%,11.5%,{23/3}%
+    ELSE
+        ;HATE
+        FONT=Arial,7,T,#000000
+        TEXT=,"Hate",22.5%,{28/3}%,18%,{50/9}%
+        FONT=Kereru,15,T,#000000
+        TEXT="1-{(HATE)}",[HATE],26%,{46/3}%,11.5%,{23/3}%
+    ENDIF
+ENDIF
+
+; Print settings
+DUPLEX = 1-21, 22-42
+PRINT = DUPLEX
+
+

@@ -1,0 +1,1165 @@
+Black Uruk
+Large and evil Orcs of great strength, picked from among the fiercest to act as lieutenants, bodyguards or chosen warriors, sent to reinforce a colony of lesser Orcs.
+BLACK URUK
+Fierce, Tall
+Combat Proficiencies: Broad-Bladed Sword 3 (5/18). Broad-Headed Spear 2 (5/16, Pierce, 2-Handed)
+Fell Abilities: Horrible Strength. If the creature scored a Piercing Blow with a close combat attack, spend 1 Hate to make the target’s Protection roll Ill-favoured.
+Hate Sunlight. The creature loses 1 Hate at the start of each round it is exposed to the full light of the sun.
+ATTRIBUTE LEVEL
+5
+Endurance
+20
+Might
+1
+Hate
+5
+Parry
++2
+Armour
+2
+
+Snaga Tracker
+A smaller breed gifted with wide, snuffling nostrils, able to catch the scent of enemies from a distance, even after a prolonged period of time has passed. Trackers are a weak and lazy lot, but quick and clever.
+SNAGA TRACKER
+Swift, Keen-Eyed
+Combat Proficiencies: Bow of Horn 3 (3/14, Pierce, 2-Handed). Jagged Knife 2 (2/14)
+Fell Abilities: Hate Sunlight. The creature loses 1 Hate at the start of each round it is exposed to the full light of the sun.
+Craven. When affected by the Intimidate Foe combat task, the creature also loses 1 Hate.
+Snake-Like Speed. When targeted by an attack, spend 1 Hate to make the attack roll Ill-favoured.
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Hate
+3
+Parry
++1
+Armour
+2
+
+Messenger of Lugburz
+An emissary of the Shadow, a Messenger of Lugbúrz is always on an errand for his Master, be it to spy upon Men, Elves or Dwarves, or to rouse all creatures with evil intent in an area.
+MESSENGER OF LUGBURZ
+Swift, Secretive
+Combat Proficiencies: Scimitar 3 (3/16), Jagged Knife 3 (2/14, Pierce)
+Fell Abilities: Snake-Like Speed. When targeted by an attack, spend 1 Hate to make the attack roll Ill-favoured.
+Hate Sunlight. The creature loses 1 Hate at the start of each round it is exposed to the full light of the sun.
+ATTRIBUTE LEVEL
+5
+Endurance
+20
+Might
+1
+Hate
+5
+Parry
++2
+Armour
+2
+
+Orcs of Mount Gram
+The Orcs of Mount Gram have a long memory of their defeat at the hands of Bullroarer Took and fiercely hate all Hobbits, relentlessly attacking a company that includes one.
+ORCS OF MOUNT GRAM
+Vicious, Stealthy
+Combat Proficiencies: Bent Sword 3 (5/14). Spear 2 (4/16, Pierce, 2-Handed).
+Fell Abilities: Hate Sunlight. The creature loses 1 Hate at the start of each round it is exposed to the full light of the sun.
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Hate
+3
+Parry
+-
+Armour
+2
+
+Goblins of Carn Dum
+A small, vicious breed of Orcs still inhabit the ruins of Carn Dûm. There they hide, when they don’t prowl the land with war-bands led by warriors of the Hill-men of Rhudaur, who profit from the Goblins’ abilities as scouts and look-outs. The Goblins both hate and fear those who defeated their master, the Dúnedain and the High Elves of Rivendell.
+GOBLINS OF CARN DUM
+Vicious, Stealthy
+Combat Proficiencies: Broad-Bladed Sword 3 (5/14). Bow of Horn 2 (4/14, Pierce, 2-Handed)
+Fell Abilities: Cowardly. At the start of the round, the adversary flees the battlefield if at zero Hate and is unengaged
+Hate Sunlight. The creature loses 1 Hate at the start of each round it is exposed to the full light of the sun.
+ATTRIBUTE LEVEL
+2
+Endurance
+8
+Might
+1
+Hate
+2
+Parry
+-
+Armour
+2
+
+Orcs of the White Mountains
+After their defeat in the Battle of Azanulbizar, countless Orcs fled south from the Misty Mountains. Many of these took refuge in the White Mountains, becoming a plague on the lands of the Mark until the last of them were finally hunted down and slain by Folca King in 2863. Yet in some hidden fortresses within the least accessible corners of the White Mountains Orcs remain, lean and hungry and kept warm against the cold by the hate burning within their breasts.
+ORCS OF THE WHITE MOUNTAINS
+Bitter, Starving
+Combat Proficiencies: Bent Sword 3 (5/14). Spear 2 (4/16, Pierce, 2-Handed).
+Fell Abilities: Cowardly. At the start of the round, the adversary flees the battlefield if at zero Hate and is unengaged
+Hate Sunlight. The creature loses 1 Hate at the start of each round it is exposed to the full light of the sun.
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Hate
+3
+Parry
+-
+Armour
+2
+
+Half-Orcs
+The more ill-favoured of Saruman’s creations are the Half-orcs, creatures whose ancestry cannot be disguised. Known also as Man-orcs, they are tall and ferocious, and are often dispatched to assault enemies defending behind an advantageous position, like a shield-wall formation for example, as their reach is longer than that of most Orcs.
+HALF-ORCS
+Tall, Ferocious
+Combat Proficiencies: Orc-Axe 3 (3/18, Break Shield). Spear 2 (4/16, Pierce, 2-Handed).
+Fell Abilities: Horrible Strength. If the creature scored a Piercing Blow with a close combat attack, spend 1 Hate to make the target’s Protection roll Ill-favoured.
+ATTRIBUTE LEVEL
+6
+Endurance
+24
+Might
+1
+Hate
+6
+Parry
++2
+Armour
+3
+
+Uruk-Hai Soldiers
+Large and heavily muscled with fearsome features, many of these slant-eyed Orcs serve Saruman the White. They are equipped in Isengard, and are clad in heavy iron mail and wield broad short swords. But the Uruk-hai are not crude and savage as other Orcs. They are clever monsters, sent to accomplish delicate missions whose objectives are known only to the mind who plotted them.
+URUK-HAI SOLDIERS
+Clever, Swift
+Combat Proficiencies: Broad-Bladed Sword 3 (5/18). Bow of Horn 3 (3/14, Pierce, 2-Handed)
+Fell Abilities: Hideous Toughness: When attacks inflict damage to the creature that would cause it to go to zero Endurance, it causes a Piercing Blow instead. Then, if the creature is still alive, it returns to full Endurance.
+ATTRIBUTE LEVEL
+6
+Endurance
+24
+Might
+1
+Hate
+6
+Parry
++2
+Armour
+2
+
+Uruk-Hai Captain
+As tall as Men and wielding terrible weaponry, the captains of the Uruk-hai know no mercy – even towards their own soldiers. They are keen-minded and brutally efficient, driving their ‘lads’ with a combination of cracking whips and promised pain for those who do not follow their orders. Those serving Saruman are unwaveringly loyal to the White Hand and are often the only Orcs in a given company who have any hint at the reasons behind a mysterious command from their master.
+URUK-HAI CAPTAIN
+Cunning, Fierce
+Combat Proficiencies: Broad-Bladed Sword 4 (5/18). Orc-Whip 3 (3/10, Seize)
+Fell Abilities: Hideous Toughness: When attacks inflict damage to the creature that would cause it to go to zero Endurance, it causes a Piercing Blow instead. Then, if the creature is still alive, it returns to full Endurance.
+Yell of Triumph. Spend 1 Hate to restore 1 Hate to all other Uruk-Hai in the fight.
+Savage Assault. When this creature produces at least on a successful attack roll, they may immediately make a second attack. This can only occur once per round.
+ATTRIBUTE LEVEL
+8
+Endurance
+42
+Might
+1
+Hate
+8
+Parry
++2
+Armour
+3
+
+Goblin-Men
+Not obviously as Orc-like as the Half-orcs, Goblin-men are able to pass as individuals of a particularly foul appearance and temperament. They often work as spies and emissaries for their master in Orthanc, due to their ability to pass relatively unnoticed in civilised lands. From Bree to Gondor, they skulk in the shadows and listen to idle talk across Middle-earth before returning to Isengard.
+GOBLIN-MEN
+Stealthy, Keen
+Combat Proficiencies: Jagged Knife 3 (2/14, Pierce)
+Fell Abilities: Craven. When affected by the Intimidate Foe combat task, the creature also loses 1 Hate.
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Hate
+4
+Parry
++1
+Armour
+1
+
+Orcish Wolf-Riders
+In his later schemes against Rohan, Saruman plans to employ companies of Orcs riding Wild Wolves to oppose the horse-riding Rohirrim. These fast riders are particularly suited as scouts and as plunderers, as they can strike swiftly and return.
+ORCISH WOLF-RIDERS
+Fierce, Swift
+Combat Proficiencies: Spear 3 (4/14, Pierce). Bent Sword 2 (5/14)
+Fell Abilities: Thing of Terror. At the start of the first round of the battle all Player-heroes in sight gain 3 Shadow points (Dread). Those who fail their Shadow test are daunted and cannot spend Hope for the rest of the fight.
+Craven. When affected by the Intimidate Foe combat task, the creature also loses 1 Hate.
+ATTRIBUTE LEVEL
+4
+Endurance
+16
+Might
+1
+Hate
+4
+Parry
++1
+Armour
+2
+
+Hobgoblins
+Hobgoblins are an especially malevolent race of Orcs bred in the North in ages past. They are tall and gaunt, with long limbs and flat, almost noseless faces. Only a few members of that fell race survive today, in dark caverns beneath the Grey Mountains and under the Mountains of Mirkwood. Like the smaller Goblins of the mountains, they hate the light of the sun and rarely venture far from their lairs, but are exceedingly powerful at night or when prowling in darkness
+HOBGOBLINS
+Cruel, Large
+Combat Proficiencies: Orc-Axe 3 (3/18, Break Shield). Bite 3 (6/14, Pierce)
+Fell Abilities: Hate Sunlight. The creature loses 1 Hate at the start of each round it is exposed to the full light of the sun.
+Denizen of the Dark. All attack rolls are Favoured while in darkness.
+Horrible Strength. If the creature scored a Piercing Blow with a close combat attack, spend 1 Hate to make the target’s Protection roll Ill-favoured.
+ATTRIBUTE LEVEL
+6
+Endurance
+24
+Might
+1
+Hate
+6
+Parry
++1
+Armour
+3
+
+Forest Goblin
+The Orcs of Mirkwood are wiry, pale creatures, mostly inhabiting the caves under the Mountains of Mirkwood and haunting the ruins of Dol Guldur. Their long limbs and bony hands are surprisingly powerful, a characteristic that many enemies discovered too late.
+FOREST GOBLIN
+Cunning, Subtle
+Combat Proficiencies: Stone Spear 3 (4/12, Pierce). Jagged Knife 2 (2/14, Pierce)
+Fell Abilities: Mirkwood Dweller. When inside Mirkwood, this creature gains +2 Parry.
+Hate Sunlight. The creature loses 1 Hate at the start of each round it is exposed to the full light of the sun.
+Cowardly. At the start of the round, the adversary flees the battlefield if at zero Hate and is unengaged
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Hate
+3
+Parry
++1
+Armour
+2
+
+Marsh Hags
+These solitary monsters appear to be large and twisted Water-goblins, with long arms and iron-hard claws. They are called hags as their heads seem covered by thick tresses of green hair, giving them the appearance of horrible, wicked crones. Marsh-hags hide in watery chambers beneath deep stagnant pools, waiting for an unfortunate traveller to stumble upon their hiding place.
+MARSH HAGS
+Slimy, Horrible
+Combat Proficiencies: Claws 3 (5/16, Seize)
+Fell Abilities: Snake-Like Speed. When targeted by an attack, spend 1 Hate to make the attack roll Ill-favoured.
+ATTRIBUTE LEVEL
+4
+Endurance
+26
+Might
+1
+Hate
+4
+Parry
++1
+Armour
+2
+
+The Pale Ones
+Long ago, a small tribe of Goblins passed beneath the shadow of the mountains and slipped past the Ents into the gloom of Nan Mordeleb. As they supped on sickly toadstools, they changed, down in the dark. They lost much of their fears and gained a feral cunning vicious even by the standards of their own cruel race.
+THE PALE ONES
+Small, Feral
+Combat Proficiencies: Bow of Horn 4 (3/14, Pierce, 2-Handed). Jagged Knife 2 (2/14, Pierce)
+Fell Abilities: Hate Sunlight. The creature loses 1 Hate at the start of each round it is exposed to the full light of the sun.
+Denizen of the Dark. All attack rolls are Favoured while in darkness.
+ATTRIBUTE LEVEL
+4
+Endurance
+16
+Might
+1
+Hate
+4
+Parry
++1
+Armour
+1
+
+Common Hill Troll
+Hill-Trolls are probably the most common breed of this cruel race, as they prowl desolate areas from the Coldfells in the north to Gorgoroth in the south. They are wild and beastly in battle, prone to bellowing and roaring to intimidate their enemies, but can be disciplined to use simple weapons and armour.
+COMMON HILL TROLL
+Fierce, Irritable
+Combat Proficiencies: Club 2 (6/16, Break Shield). Crush 2 (4/12, Seize)
+Fell Abilities: Horrible Strength. If the creature scored a Piercing Blow with a close combat attack, spend 1 Hate to make the target’s Protection roll Ill-favoured.
+ATTRIBUTE LEVEL
+5
+Endurance
+45
+Might
+2
+Hate
+5
+Parry
+-
+Armour
+3
+
+Hill-Troll Chief
+A Troll-chief is a larger, meaner and more intelligent Hill-Troll, a formidable opponent even for the most valorous (or reckless) heroes.
+HILL-TROLL CHIEF
+Fierce, Cruel
+Combat Proficiencies: Club 3 (6/16, Break Shield). Crush 2 (6/12, Seize)
+Fell Abilities: Horrible Strength. If the creature scored a Piercing Blow with a close combat attack, spend 1 Hate to make the target’s Protection roll Ill-favoured.
+Thing of Terror. At the start of the first round of the battle all Player-heroes in sight gain 3 Shadow points (Dread). Those who fail their Shadow test are daunted and cannot spend Hope for the rest of the fight.
+Thick Hide. Spend 1 Hate point to gain (2d) on a Protection roll.
+ATTRIBUTE LEVEL
+8
+Endurance
+70
+Might
+2
+Hate
+8
+Parry
+-
+Armour
+4
+
+Mountain Troll
+Mountain-Trolls are the largest of all Troll-races, often twelve feet or more in height. Immensely strong and dangerous, luckily they are rarely encountered, and are dull-witted and slow.
+MOUNTAIN TROLL
+Brutish, Wicked
+Combat Proficiencies: Crush 3 (6/12, Seize)
+Fell Abilities: Horrible Strength. If the creature scored a Piercing Blow with a close combat attack, spend 1 Hate to make the target’s Protection roll Ill-favoured.
+Thing of Horror . At the start of the first round of the battle all Player-heroes in sight gain 3 Shadow points (Dread). Those who fail their Shadow test are daunted and cannot spend Hope for the rest of the fight. Those who succeed will continue to gain 1 Shadow point (Dread) each round until they fail a Shadow test.
+Savage Assault. When this creature produces at least on a successful attack roll, they may immediately make a second attack. This can only occur once per round.
+ATTRIBUTE LEVEL
+10
+Endurance
+80
+Might
+2
+Hate
+10
+Parry
+-
+Armour
+5
+
+Ettins
+Ettins are some of the oldest of Troll-kind, barely
+distinguishable from huge piles of rock. They exhibit abnormal
+features now lost to the Stone-Trolls, like having four arms, or
+two heads growing side-by-side from their shoulders.
+ETTINS
+Keen-Eyed, Ancient
+Combat Proficiencies: Crush 3 (6/12, Break Shield).
+Tear 2 (6/12, Seize)
+Fell Abilities: Horrible Strength. If the creature scored a Piercing Blow with a close
+combat attack, spend 1 Hate to make the target’s Protection roll Ill-favoured.
+Thick Hide . Spend 1 Hate point to gain (2d) on a Protection roll.
+Two-Headed OR Four-Armed. Choose one of the two options.
+ Two-Headed. All rolls made to sneak around or ambush this creature
+are Ill-favoured.
+ Four-Armed. This creature can Seize two targets at the same time or
+seize one and still act normally.
+ATTRIBUTE LEVEL
+9
+Endurance
+70
+Might
+2
+Hate
+9
+Parry
+-
+Armour
+3
+
+Marsh-Ogre
+Some of the more terrifying tales surviving in the North talk of
+horrible man-eating Giants who were said to prowl lonely
+moors and bogs in search of prey. The most dangerous among
+them are said to have once lived in the marshes to the east of
+Mirkwood. No one has seen an Ogre in recent times, and the
+old and wise among the Men of the Lake say that they
+retreated among the mists of the bogs when Smaug took
+residence under the Lonely Mountain - few monsters were a
+match for a great Dragon! But now Smaug is dead, and the
+Marsh-ogres could emerge once again from their stinking
+retreats to threaten Lake-town and its prospering inhabitants.
+MARSH-OGRE
+Slimy, Vicious
+Combat Proficiencies: Crush 3 (6/12, Break Shield)
+Fell Abilities: Thing of Terror. At the start of the first round of the battle all Playerheroes
+in sight gain 3 Shadow points (Dread). Those who fail their Shadow test are
+daunted and cannot spend Hope for the rest of the fight.
+Savage Assault . When this creature produces at least on a
+successful attack roll, they may immediately make a second attack. This
+can only occur once per round.
+Horrible Strength. If the creature scored a Piercing Blow with a close combat
+attack, spend 1 Hate to make the target’s Protection roll Ill-favoured.
+ATTRIBUTE LEVEL
+9
+Endurance
+70
+Might
+2
+Hate
+9
+Parry
+-
+Armour
+2
+
+Fungal Troll
+Cave-Trolls that linger too long in the depths of Nan Mordeleb
+can change nearly beyond recognition, their bodies becoming
+hosts to swarms of fungal infestations. This softens their hide,
+making them (somewhat) easier to damage, yet all but inures
+them to pain. The resulting creatures are terrible to behold and
+perilous to fight.
+FUNGAL TROLL
+Ugly, Wild
+Combat Proficiencies: Bite 3 (6/14, Pierce).
+Crush 2 (5/16, Break Shield)
+Fell Abilities: Foul Reek . If any hero engaged in close combat with this
+creature wishes to take any action other than attacking, they must spend
+1 point of Hope (including Combat Tasks).
+Savage Assault . When this creature produces at least on a
+successful attack roll, they may immediately make a second attack. This
+can only occur once per round.
+Horrible Strength . If the creature scored a Piercing Blow with a close
+combat attack, spend 1 Hate to make the target’s Protection roll Illfavoured.
+ATTRIBUTE LEVEL
+10
+Endurance
+80
+Might
+2
+Hate
+10
+Parry
+-
+Armour
+3
+
+Attercop
+Many-eyed and many-legged, Attercops are giant spiders
+reaching up to the size of boars. They are crafty predators who
+attack unwary victims, first tying them up with their spiderthread
+and then poisoning them. While a single Attercop does
+not pose a significant threat to any but a less-experienced adventurer,
+a roused spider-colony can be a challenge even for a
+veteran company of heroes.
+ATTERCOP
+Stealthy, Swift
+Combat Proficiencies: Sting 3 (3/12, Pierce).
+Web 2 (-/-, Web)
+Fell Abilities: 
+ATTRIBUTE LEVEL
+2
+Endurance
+8
+Might
+1
+Hate
+2
+Parry
++1
+Armour
+2
+
+Hunter Spider
+Spawn of Tauler the Hunter and his sister Sarqin.
+HUNTER SPIDER
+Swift, Stealthy
+Combat Proficiencies: Sting 4 (4/16, Pierce).
+Fell Abilities: Horrible Strength . If the creature scored a Piercing Blow with
+a close combat attack, spend 1 Hate to make the target’s Protection roll
+Ill-favoured.
+Great Leap. Spend 1 Hate to attack any Player-hero, in any combat stance,
+including Rearward.
+Paralyzing-Poison . If this creature applies its Poison effect, the victim
+also falls to the ground paralyzed until the Poison is cured.
+ATTRIBUTE LEVEL
+6
+Endurance
+24
+Might
+1
+Hate
+6
+Parry
++2
+Armour
+3
+
+Great Spider
+Great Spiders display their dreadful heritage much more prominently
+than the lesser Attercops. They are gigantic in size,
+sometimes as big as horses or greater, but their soft, flexible
+bodies enable them to hide in surprisingly narrow passages.
+While they can always be described as monstrous spider creatures,
+their features often differ from one individual to another:
+the number and appearance of their legs and eyes may vary,
+for instance — some are supported by long and thin stalks, others
+move about on strong and hairy limbs ending in claw-like
+appendages, some spy from the dark with clustered eyes, and
+others follow their prey with bulbous, many-windowed eyes.
+Regardless of the details, Great Spiders are always a terrifying
+sight.
+GREAT SPIDER
+Vicious, Fierce
+Combat Proficiencies: Sting 3 (4/16, Pierce).
+Web 3 (-/-, Web)
+Fell Abilities: Thing of Terror. At the start of the first round of the battle all Playerheroes
+in sight gain 3 Shadow points (Dread). Those who fail their Shadow test are
+daunted and cannot spend Hope for the rest of the fight.
+Denizen of the Dark . All attack rolls are Favoured while in darkness.
+Dreadful Spells . Spend 1 Hate to make one Player-hero gain 3 Shadow
+points (Sorcery). Targets who fail their Shadow test or who are Miserable
+cannot willingly attack the Great Spider for a number of rounds =
+10 - their Wisdom score.
+Horrible Strength . If the creature scored a Piercing Blow with a close
+combat attack, spend 1 Hate to make the target’s Protection roll Illfavoured.
+ATTRIBUTE LEVEL
+8
+Endurance
+32
+Might
+2
+Hate
+8
+Parry
++1
+Armour
+3
+
+Great Bat
+Unusually large bats, whose taste for blood often leads them to follow when Orcs and Wargs go on raids or to war.
+GREAT BAT
+Swift, Loud
+Combat Proficiencies: Bite 3 (4/14, Pierce). Claws 3 (3/14, Seize)
+Fell Abilities:
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Hate
+3
+Parry
++1
+Armour
+2
+
+Elder Vampire
+The largest and most terrible of the winged vampires. These gargantuan bats are the size of a grown man with wings each as long as its body. Their clawed feet tear open the stomach of their victims and their fangs can pierce armor with ease.
+ELDER VAMPIRE
+Vicious, Swift
+Combat Proficiencies: Bite 3 (6/14, Pierce). Claws 3 (5/16, Seize)
+Fell Abilities: Snake-Like Speed. When targeted by an attack, spend 1 Hate to make the attack roll Ill-favoured.
+Thing of Terror. At the start of the first round of the battle all Player-heroes in sight gain 3 Shadow points (Dread). Those who fail their Shadow test are daunted and cannot spend Hope for the rest of the fight.
+Deadly Wound.. Wounded targets make an Ill-favoured Feat die roll to determine the severity of their injury.
+ATTRIBUTE LEVEL
+6
+Endurance
+50
+Might
+2
+Hate
+6
+Parry
++1
+Armour
+3
+
+Secret Shadow
+Taking the form of great misshapen bats, these servants of Sauron fly on their great fingered wings to carry his dark tidings or to spy upon the land, or join a swarm of Great Bats when war or hunt has provided them with prey. These Vampires belong to an astute and patient breed, always aware of the will of their Master and ready to do his bidding. Ages ago they were able to disguise their foul appearance and appear as beautiful women. Today, they may appear as such only briefly, to confound their opponents.
+SECRET SHADOW
+Stealthy, Secretive
+Combat Proficiencies: Bite 4 (6/14, Pierce). Claws 3 (5/16, Seize)
+Fell Abilities: Bewilder. Spend 1 Hate to reduce the Parry score of a player-hero by –2 for one turn.
+Snake-Like Speed. When targeted by an attack, spend 1 Hate to makes the attack roll Ill-favoured.
+Savage Assault. When this creature produces at least on a successful attack roll, they may immediately make a second attack. This can only occur once per round.
+Fell Speed: At the beginning of each turn, this creature can choose which hero it engages regardless of restrictions, or it can abandon combat entirely.
+ATTRIBUTE LEVEL
+7
+Endurance
+28
+Might
+1
+Hate
+7
+Parry
++2
+Armour
+3
+
+Hill-Men of Rhudaur
+Cruel warriors once serving the Witch-lord of Angmar, they were much reduced in numbers, but they still inhabit the land once ruled by their king. They received many gifts of sorcery, and have not forgotten their allegiance.
+HILL-MEN OF RHUDAUR
+Grim, Bold
+Combat Proficiencies: Orc-Axe 3 (3/18, Break Shield). Spear 2 (4/16, Pierce, 2-Handed)
+Fell Abilities: Raven Spirits. When the first Hill-man dies in a combat, ravens swoop down and reduce the Parry rating of all player heroes by –2.
+Dreadful Spells. Spend 1 Hate to force a player to gain 1 Shadow point (Sorcery). If the hero fails their Shadow Test, each time they roll a they lose 1 Hope until the next dusk or dawn.
+Cowardly. At the start of the round, the adversary flees the battlefield if at zero Hate and is unengaged
+ATTRIBUTE LEVEL
+5
+Endurance
+20
+Might
+1
+Resolve
+5
+Parry
++1
+Armour
+2
+
+Hill-Men of Gundabad
+These Hill-men are wild warriors of the Black Hills of the Vales of Gundabad. Their ancestors served the Witch-king of Angmar, and they were given to the practice of sorcery. Today they do not serve the Shadow, but should their old master summon them, most of them would readily answer. The Hill-men can leave their bodies while sleeping in the form of spirit-Wargs, to join the wild wolves in their hunts.
+HILL-MEN OF GUNDABAD
+Wild, Fierce
+Combat Proficiencies: Spear 3 (4/16, Pierce, 2-Handed). Short Sword 2 (3/16)
+Fell Abilities: Thing of Terror. At the start of the first round of the battle all Player-heroes in sight gain 3 Shadow points (Dread). Those who fail their Shadow test are daunted and cannot spend Hope for the rest of the fight.
+Fear of Fire. The creature loses 1 Hate at the start of each round it is engaged in close combat with an adversary wielding a torch or other burning item.
+Hatred (Beornings & Elves). When targeting the subject of their hate, all attacks are Favoured.
+ATTRIBUTE LEVEL
+4
+Endurance
+16
+Might
+1
+Resolve
+4
+Parry
++2
+Armour
+2
+
+Gundabad Spirit Wargs
+Spirit Warg forms of the Hill Men of Gundabad.
+GUNDABAD SPIRIT WARGS
+Grim, Bold
+Combat Proficiencies: Bite 3 (4/14, Pierce)
+Fell Abilities: Fear of Fire. The creature loses 1 Hate at the start of each round it is engaged in close combat with an adversary wielding a torch or other burning item.
+Great Leap. Spend 1 Hate to attack any Player-hero, in any combat stance, including Rearward
+Snake-Like Speed. When targeted by an attack, spend 1 Hate to make the attack roll Ill-Favoured.
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Resolve
+3
+Parry
++1
+Armour
+2
+
+Wild Men of Mirkwood
+These men are the descendants of Northmen who fled into the deep forests of Mirkwood and became corrupt and evil. They forgot all their lore, and now use carved wood and chipped stone instead of metal. They speak a barbaric tongue that is part a degenerate form of the Common Speech and part mimickry of the chirps and clicks of the Spiders.
+WILD MEN OF MIRKWOOD
+Cruel, Barbaric
+Combat Proficiencies: Stone Spear 3 (4/14, Pierce, 2-Handed). Bow 2 (3/14, Pierce, 2-Handed)
+Fell Abilities: Mirkwood Dweller. When inside Mirkwood, this creature gains +2 Parry.
+Hatred (Elves). When fighting hated enemies, all of this creature’s attack rolls are Favoured.
+Thrall (Spiders). This creature is a thrall of another. When its master is on the field, this creature may spend 1 Hate point to sacrifice itself to absorb an attack for its master. If its master is not on the field this creature loses 1 Hate and becomes Craven.
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Resolve
+3
+Parry
++1
+Armour
+2
+
+Dunlending Raiders
+Sometimes, when a particularly harsh winter has passed or a
+provocation from the hated Forgoil rouses them, the Men of
+Dunland assemble war parties and descend swiftly from their
+hills to plunder and kill, before retreating just as quickly back
+into the mountain mists where few dare follow them.
+DUNLENDING RAIDERS
+Subtle, Swift
+Combat Proficiencies: Axe 3 (5/18, Break Shield).
+Spear 2 (4/16, Pierce, 2-Handed)
+Fell Abilities: Hatred (Men of Rohan). When fighting hated enemies, all of this
+creature’s attack rolls are Favoured.
+ATTRIBUTE LEVEL
+4
+Endurance
+16
+Might
+1
+Resolve
+4
+Parry
++1
+Armour
+2
+
+Warriors of the Gaesela
+Proud in their old ways, the Dunlendings of the west march of
+Rohan are more peaceful than their kin living in the Dunland
+Fells, but they are just as quick to draw blood if given a reason.
+WARRIORS OF THE GAESELA
+Stern, Wary
+Combat Proficiencies: Spear 3 (4/16, Pierce, 2-Handed).
+Axe 2 (5/18, Break Shield). Bow 2 (3/14, Pierce, 2 -Handed)
+Fell Abilities: Snake-Like Speed. When targeted by an attack, spend 1 Resolve to
+make the attack roll Ill-favoured.
+ATTRIBUTE LEVEL
+5
+Endurance
+20
+Might
+1
+Resolve
+5
+Parry
++2
+Armour
+2
+
+Men of Isengard
+Many of Saruman’s most trusted servants belong to the folk of
+Isengard, men and women who have lived all their lives under
+the shadow of the Tower of Orthanc. Well-fed and trained,
+they are loyal and dependable.
+MEN OF ISENGARD
+Bold, Cunning
+Combat Proficiencies: Spear 3 (4/16, Pierce, 2-Handed).
+Fell Abilities:
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Resolve
+4
+Parry
++1
+Armour
+3
+
+Wulfing Riders
+The Wulfings bear the symbols of their mixed ancestry, the old
+roots of their Dunlendish blood and their Northman heritage.
+They will draw their blade on anyone who forgets that one of
+their lords was once king of all Rohan…
+WULFING RIDERS
+Violent, Bold
+Combat Proficiencies: Spear 3 (4/14, Pierce).
+Sword 2 (4/16)
+Fell Abilities: Hatred (Men of Rohan). When fighting hated enemies, all of this
+creature’s attack rolls are Favoured.
+Fierce Folk. Spend 1 Resolve to gain (1d) on an attack and make the
+roll Favoured .
+ATTRIBUTE LEVEL
+5
+Endurance
+20
+Might
+1
+Resolve
+5
+Parry
++2
+Armour
+2
+
+Easterling Warrior
+The warriors of the East are fierce and tough. Adorned in
+bronzed and gilded mail and armed with gleaming curved
+blades, these foreign fighters are a strange and fearful sight.
+EASTERLING WARRIOR
+Fierce, Tough
+Combat Proficiencies: Spear 3 (4/14, Pierce).
+Fell Abilities: Fierce Folk. Spend 1 Resolve to gain (1d) on an attack and
+make the roll Favoured .
+ATTRIBUTE LEVEL
+4
+Endurance
+16
+Might
+1
+Resolve
+4
+Parry
++1
+Armour
+4
+
+Easterling Captain
+Captains in the armies of the East are especially cruel,
+establishing their authority through fear and pain. They are just
+as capable of inflicting that pain on their foes.
+EASTERLING CAPTAIN
+Tough, Vicious
+Combat Proficiencies: Scimitar 4 (4/16).
+Dagger 3 (2/14, Pierce)
+Fell Abilities: Fierce Folk. Spend 1 Resolve to gain (1d) on an attack and
+make the roll Favoured .
+Cruel Stroke. When this creature scores a Piercing Blow, spent 1 Hate
+to raise the Injury Rating of the weapon by 4.
+ATTRIBUTE LEVEL
+6
+Endurance
+24
+Might
+1
+Resolve
+6
+Parry
++2
+Armour
+4
+
+Easterling Raider
+Fast and light skirmishing units of the Easterlings are a common
+sight near the Iron Hills, in Dorwinion, and sometimes in the
+furthest reaches of Dalish lands. These raiders are fast and
+brutal, and are masters of both horse and bow.
+EASTERLING RAIDER
+Swift, Elusive
+Combat Proficiencies: Spear 3 (4/14, Pierce).
+Bow 3 (3/14, Pierce)
+Fell Abilities: Deadly Elusiveness. This creature can only be attacked in
+Close Combat by a character in Forward Stance.
+ATTRIBUTE LEVEL
+5
+Endurance
+30
+Might
+1
+Resolve
+5
+Parry
++2
+Armour
+4
+
+Easterling Sorcerer
+Petty sorcery is the fare of dark cultists and secretive courtiers
+in the kingdoms of the East. Black temples to Morgoth are the
+training grounds for men and women with knowledge of evil
+power who use their knowledge to aid in the wars fought in
+Dark Lord Sauron’s name.
+EASTERLING SORCERER
+Cruel, Cunning
+Combat Proficiencies: Black-Bladed Dagger 3 (2/14)
+Fell Abilities: Dreadful Spells. Spend 1 point of Hate to make one playerhero
+gain 3 Shadow points (Sorcery). Targets who fail their shadow test
+are stung with blinding pain like a knife through the gut, making them
+lose (-2d) on all attack rolls, and suffer –4 to their Parry rating. The
+target may forego their attack on their turn and roll an ATHLETICS test,
+ending the effect on a success.
+Cursed Dagger. When this creature deals damage with an attack, the
+attack target gains 1 Shadow point (Dread).
+ATTRIBUTE LEVEL
+5
+Endurance
+30
+Might
+1
+Resolve
+5
+Parry
++2
+Armour
+4
+
+Corrupted Dwarf
+The dwarves are resilient against the corruption of shadow, but
+they are not immune to the enemy. Many are driven to their
+own selfish and destructive ends.
+CORRUPTED DWARF
+Tough, Stubborn
+Combat Proficiencies: Axe 3 (5/16, Break Shield).
+Fell Abilities:
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Resolve
+3
+Parry
++1
+Armour
+3
+
+Corrupted Dwarf Warrior
+The warriors of the dwarves are fearsome and sturdy. When
+they lose their minds from shadow corruption, they become a
+very dangerous threat.
+CORRUPTED DWARF WARRIOR
+Tough, Maniacal
+Combat Proficiencies: Axe 3 (5/18, Break Shield).
+Mattock 3 (7/18)
+Fell Abilities: . Fearless . This creature’s Might is considered 1 higher for the
+purpose of Resisting the Intimidate Foe combat task.
+Fierce Folk. Spend 1 Resolve to gain (1d) on an attack and make the
+roll Favoured .
+ATTRIBUTE LEVEL
+5
+Endurance
+30
+Might
+1
+Resolve
+5
+Parry
++1
+Armour
+4
+
+Corrupted Dwarf Veteran
+Experienced dwarven warriors that become corrupted can best
+several mannish fighters simultaneously, requiring a half-dozen
+warriors or more to subdue.
+CORRUPTED DWARF VETERAN
+Tough, Experienced
+Combat Proficiencies: Axe 4 (5/18, Break Shield).
+Mattock 4 (7/18)
+Fell Abilities: . Fearless . This creature’s Might is considered 1 higher for the
+purpose of Resisting the Intimidate Foe combat task.
+Fierce Folk. Spend 1 Resolve to gain (1d) on an attack and make the
+roll Favoured .
+Reckless Resolve. Spend 1 point of Resolve to recover 6 Endurance
+points.
+ATTRIBUTE LEVEL
+6
+Endurance
+34
+Might
+1
+Resolve
+6
+Parry
++2
+Armour
+5
+
+Bog Soldiers
+Dead soldiers of a war long past, lying in rest beneath the
+Ettenmoors..
+BOG SOLDIERS
+Relentless, Foul
+Combat Proficiencies: Short Sword 3 (3/16).
+Claws 3 (3/14, Seize)
+Fell Abilities:
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Hate
+3
+Parry
+-
+Armour
+2
+
+Dead Men of Dunharrow
+Shades of the men of the mountains, cursed to undeath after
+betraying their king in the war of the last alliance.
+DEAD MEN OF DUNHARROW
+Vengeful, Cruel
+Combat Proficiencies:
+Fell Abilities: Ghost Form. The creature is incorporeal and partially, if not completely,
+invisible. It cannot normally harm nor can be harmed physically by the living. When
+this creatures Hate score is reduced to 0, it disappears and reappears the next night
+with its hate score refilled. Weapons that do not possess Enchanted qualities cannot
+affect this creature.
+Visions of Torment. Spend 1 Hate to force a player-hero to gain 1 point of
+Shadow (Dread). If the hero fails their Shadow Test, they lose a number of
+Endurance points equal to twice their current Shadow score.
+Thing of Terror. At the start of the first round of the battle all Player-heroes in
+sight gain 3 Shadow points (Dread). Those who fail their Shadow test are daunted
+and cannot spend Hope for the rest of the fight.
+ATTRIBUTE LEVEL
+6
+Endurance
+24
+Might
+1
+Hate
+6
+Parry
+-
+Armour
+2
+
+Spectres
+Not all the spirits that tarry in Middle-earth are bound to the
+service of Sauron, yet all feel the pull of his will. Powerful and
+strong-willed Men or Elves who died while pursuing acts of
+passion and great pride are often so consumed by their
+obsessions that they can linger on after death, haunting places
+they once used to love or inhabit.
+SPECTRES
+Restless, Sorrowful
+Combat Proficiencies:
+Fell Abilities: Ghost Form. The creature is incorporeal and partially, if not completely,
+invisible. It cannot normally harm nor can be harmed physically by the living. When
+this creatures Hate score is reduced to 0, it disappears and reappears the next night
+with its hate score refilled. Weapons that do not possess Enchanted qualities cannot
+affect this creature.
+Dreadful Spells. Spend 1 Hate to force a player-hero to gain 2 points of Shadow
+(Sorcery). If the hero fails their Shadow Test, they are Wounded as an old injury
+reopens.
+Visions of Torment. Spend 1 Hate to force a player-hero to gain 1 point of
+Shadow (Dread). If the hero fails their Shadow Test, they lose a number of
+Endurance points equal to twice their current Shadow score.
+ATTRIBUTE LEVEL
+6
+Endurance
+24
+Might
+1
+Hate
+6
+Parry
+-
+Armour
+2
+
+Wood-Wight
+Spirits from Dol Guldur possessing the bodies of Northmen.
+WOOD-WIGHT
+Cruel, Haunted
+Combat Proficiencies: Strangling Claws 3 (5/16, Seize)
+Fell Abilities: Denizen of the Dark. All attack rolls are Favoured while in darkness.
+Fear of Fire. The creature loses 1 Hate at the start of each round it is
+engaged in close combat with an adversary wielding a torch or other
+burning item.
+Horror of the Wood . If this creature is encountered in Mirkwood, all
+BATTLE rolls made to gain combat advantages or remove combat
+complications are Ill-Favoured .
+Thing of Terror. At the start of the first round of the battle all Player-heroes in
+sight gain 3 Shadow points (Dread). Those who fail their Shadow test are daunted
+and cannot spend Hope for the rest of the fight.
+Hideous Toughness : When attacks inflict damage to the creature that
+would cause it to go to zero Endurance, it causes a Piercing Blow
+instead. Then, if the creature is still alive, it returns to full Endurance.
+ATTRIBUTE LEVEL
+8
+Endurance
+42
+Might
+1
+Hate
+8
+Parry
++1
+Armour
+4
+
+Grim Hawks
+Grim Hawks eat fish and smaller birds, as well as the worms and
+other insects that they dig out of the mud with their wickedly
+sharp curved beaks. They also eat carrion by placing one
+clawed foot on the corpse and tearing the flesh with their
+beaks. A hungry Grim Hawk can be brave enough to attack an
+armed man (and a flock may surround a group of men). The
+River-folk hunt Grim Hawks using arrows and stones; the birds
+taste terrible, but their beaks and claws are prized as
+decorations.
+GRIM HAWKS
+Wild, Vicious
+Combat Proficiencies: Bite 3 (4/14, Pierce)
+Fell Abilities: Snake-Like Speed. When targeted by an attack, spend 1 Hate to make
+the attack roll Ill-favoured.
+Craven. When affected by the Intimidate Foe combat task, the creature also
+loses 1 Hate.
+ATTRIBUTE LEVEL
+3
+Endurance
+12
+Might
+1
+Hate
+3
+Parry
++2
+Armour
+2
+
+Basilisks
+Called Sarnlug by the Elves, and Fágwyrm by the Northmen,
+these lizards are said to be cast-offs from the Enemy’s earliest
+attempts to make dragons. Most Basilisks are as large as boars,
+but they can grow much bigger. Their yellowish bellies drag on
+the ground as they waddle through the forest’s underbrush.
+BASILISKS
+Large, Wild
+Combat Proficiencies: Bite 3 (6/14, Pierce)
+Fell Abilities: Thick Hide. Spend 1 Hate point to gain (2d) on a Protection roll.
+Hatred (Elves). When this creature is fighting hated enemies, all of
+this creature’s attack rolls are Favoured .
+Venomous Breath. Spend a point of Hate to force all characters in
+close-combat with this creature to make a Protection Test against TN 14
+or be Poisoned.
+ATTRIBUTE LEVEL
+8
+Endurance
+32
+Might
+1
+Hate
+3
+Parry
++1
+Armour
+4
+
+Huorns
+HUORNS
+Ancient, Vengeful
+Combat Proficiencies: Bough Lash 3 (5/16, Seize).
+Crush 3 (6/12, Break Shield)
+Fell Abilities: Hatred (Orcs). When this creature is fighting hated enemies, all of this
+creature’s attack rolls are Favoured.
+Thick Hide. Spend 1 Hate point to gain (2d) on a Protection roll.
+Fear of Fire. The creature loses 1 Hate at the start of each round it is engaged in
+close combat with an adversary wielding a torch or other burning item.
+Wrapped in Shadow. Spend 1 Hate to summon a mist that forces all player
+heroes to succeed on a Shadow Test (Sorcery) or lose (2d) on all attack rolls and
+suffer –2 Parry in this combat. Torches or other sources of light do not help.
+ATTRIBUTE LEVEL
+6
+Endurance
+60
+Might
+2
+Hate
+6
+Parry
+-
+Armour
+4
