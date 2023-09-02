@@ -5,3 +5,4 @@
 # Images
 /images/advesaries/*.png
 !/images/advesaries/test.png
+/output
