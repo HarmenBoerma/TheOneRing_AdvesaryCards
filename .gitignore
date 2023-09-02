@@ -1,6 +1,6 @@
 # Official stats
 /data/input/advesary.txt
-/data/output/advesaries.txt
+/data/output/advesaries.csv
 
 # Images
 /images/advesaries/*.png
