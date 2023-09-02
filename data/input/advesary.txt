@@ -1,0 +1,569 @@
+Southerner Raider
+When a particularly harsh winter has passed, Men from
+the South may assemble war parties and look for some
+isolated homestead to plunder.
+SOUTHERNER RAIDER
+Canny, Hardened
+ATTRIBUTE LEVEL
+4
+ENDURANCE
+16
+MIGHT
+1
+RESOLVE
+4
+PARRY
++1
+ARMOUR
+2
+COMBAT PROFICIENCIES: Axe 3 (5/18),
+Short Spear 2 (3/14, Pierce)
+FELL ABILITIES: Fierce Folk. Spend 1 Resolve point to gain
+(1d) and make the attack roll Favoured.
+
+Southerner Champion
+A Southerner Champion may be a chieftain from Dunland,
+a bandit lord capable of uniting a number of fractious
+warriors into a small army, or just a particularly
+vicious brigand.
+SOUTHERNER CHAMPION
+Cruel, Tough
+ATTRIBUTE LEVEL
+5
+ENDURANCE
+20
+MIGHT
+1
+RESOLVE
+5
+PARRY
++2
+ARMOUR
+3
+COMBAT PROFICIENCIES: Spear 3 (4/14, Pierce),
+Long-hafted
+Axe 3 (6/18, Break Shield)
+FELL ABILITIES: Fierce Folk. Spend 1 Resolve point to gain
+(1d) on an attack and to make the roll Favoured.
+
+Footpad
+A cowardly bandit, ready to rob a defenceless victim, but capable
+of ambushing a lonely companion with the help of others.
+FOOTPAD
+Nimble, Wary
+ATTRIBUTE LEVEL
+2
+ENDURANCE
+8
+MIGHT
+1
+RESOLVE
+2
+PARRY
+—
+ARMOUR
+1
+COMBAT PROFICIENCIES: Cudgel 2 (3/12),
+Bow 2 (3/14, Pierce)
+FELL ABILITIES: Craven. When affected by the Intimidate Foe
+combat task, the creature also loses 1 Resolve.
+
+Ruffian Chief
+Tougher or simply fiercer, a chief is a ruffian who has
+reached the top with the help of a sharper mind, or blade.
+RUFFIAN CHIEF
+Ruthless, Secretive
+ATTRIBUTE LEVEL
+3
+ENDURANCE
+12
+MIGHT
+1
+RESOLVE
+3
+PARRY
++1
+ARMOUR
+2
+COMBAT PROFICIENCIES: Short Sword 3 (3/16),
+Bow 2 (3/14, Pierce)
+FELL ABILITIES: Yell of Triumph. Spend 1 Resolve to restore
+1 Resolve to all other Ruffians in the fight.
+
+Highway Robber
+More dangerous than a common brigand, a highway robber
+is used to a life in the Wild, and has learned how to
+deal with armed victims.
+HIGHWAY ROBBER
+Swift, Vengeful
+ATTRIBUTE LEVEL
+4
+ENDURANCE
+16
+MIGHT
+1
+RESOLVE
+4
+PARRY
+—
+ARMOUR
+2
+COMBAT PROFICIENCIES: Spear 3 (4/14, Pierce),
+Bow 2 (3/14, Pierce)
+FELL ABILITIES: Snake-like
+Speed. When targeted by an
+attack, spend 1 Resolve to make the attack roll Ill-favoured.
+
+Great Orc Chief
+Great Orcs are often encountered as leaders and chieftains
+of their weaker-blooded
+relatives.
+GREAT ORC CHIEF
+Bold, Cunning
+ATTRIBUTE LEVEL
+7
+ENDURANCE
+48
+MIGHT
+2
+HATE
+7
+PARRY
++3
+ARMOUR
+4
+COMBAT PROFICIENCIES: Heavy Scimitar 3 (5/18, Break
+Shield), Broad-headed
+Spear 3 (5/16, Pierce)
+FELL ABILITIES: Horrible Strength. If the creature scored a
+Piercing Blow with a close combat attack, spend 1 Hate
+to make the target’s Protection roll Ill-favoured.
+Snake-like
+Speed. When targeted by an attack,
+spend 1 Hate to make the attack roll Ill-favoured.
+Yell of Triumph. Spend 1 Hate to restore 1 Hate to all
+other Orcs in the fight.
+
+Great Orc Bodyguard
+Less cunning than those who lead them, these fell creatures
+protect their captains at the cost of their lives.
+GREAT ORC BODYGUARD
+Fierce, Wary
+ATTRIBUTE LEVEL
+6
+ENDURANCE
+24
+MIGHT
+2
+HATE
+6
+PARRY
++2
+ARMOUR
+3
+COMBAT PROFICIENCIES: Orc-axe
+3 (3/18, Break Shield),
+Broad-headed
+Spear 3 (5/16, Pierce)
+FELL ABILITIES: Hideous Toughness. When an attack inflicts
+damage to the creature that would cause it to go to zero
+Endurance, it causes a Piercing Blow instead. Then, if the
+creature is still alive, it returns to full Endurance.
+
+Goblin Archer
+A Goblin Archer is an Orc chosen for his keen eyes. His
+ability to see in the dark, coupled with a steady hand, lets
+him shoot arrows with precision by night or day.
+GOBLIN ARCHER
+Cunning, Keen-eyed
+ATTRIBUTE LEVEL
+2
+ENDURANCE
+8
+MIGHT
+1
+HATE
+2
+PARRY
+–
+ARMOUR
+1
+COMBAT PROFICIENCIES: Bow of Horn 3 (3/14, Pierce),
+Jagged Knife 2 (2/14)
+FELL ABILITIES: Craven. When affected by the Intimidate
+Foe combat task, the creature also loses 1 Hate.
+Orc-poison.
+If an attack results in a Wound, the target
+is also poisoned (see page 134 for the effects of
+poison).
+
+Orc-chieftain
+Only the most wicked and cruel Orcs live long enough
+to become chieftains and lead their tribe or warband to
+battle.
+ORC-CHIEFTAIN
+Cruel, Hardened
+ATTRIBUTE LEVEL
+5
+ENDURANCE
+20
+MIGHT
+1
+HATE
+5
+PARRY
++3
+ARMOUR
+3
+COMBAT PROFICIENCIES: Scimitar 3 (3/16),
+Spear 3 (3/14, Pierce)
+FELL ABILITIES: Great Leap. Spend 1 Hate to attack any
+Player-hero,
+in any combat stance, including Rearward.
+Snake-like
+Speed. When targeted by an attack,
+spend 1 Hate to make the attack roll Ill-favoured.
+Yell of Triumph. Spend 1 Hate to restore 1 Hate to all
+other Orcs in the fight.
+
+Orc Guard
+The strongest and boldest Orcs are equipped with the
+toughest armour they can find or put together, and are
+placed to keep watch on an area wielding a sword and
+sturdy shield.
+ORC GUARD
+Strong, Vigilant
+ATTRIBUTE LEVEL
+4
+ENDURANCE
+16
+MIGHT
+1
+HATE
+4
+PARRY
++2
+ARMOUR
+3
+COMBAT PROFICIENCIES: Scimitar 3 (3/16),
+Spear 3 (3/14, Pierce)
+FELL ABILITIES:
+
+Orc Soldier
+Often armed with characteristic bent swords, Orc Soldiers
+are a loud, undisciplined lot. Only a forceful chieftain
+with a cruel whip and a sharp blade can keep them
+in line.
+ORC SOLDIER
+Rebellious, Vengeful
+ATTRIBUTE LEVEL
+3
+ENDURANCE
+12
+MIGHT
+1
+HATE
+3
+PARRY
++1
+ARMOUR
+2
+COMBAT PROFICIENCIES: Scimitar 3 (3/16),
+Spear 2 (3/14, Pierce)
+FELL ABILITIES: Craven. At the start of the round, the
+adversary flees the battlefield if at zero Hate and is
+unengaged.
+
+Great Cave-troll
+Feared by its own handlers, a Great Cave-troll
+is sent by
+Orcs to smash the defences and the morale of the foes
+they fear the most.
+GREAT CAVE-TROLL
+Brutish, Wicked
+ATTRIBUTE LEVEL
+10
+ENDURANCE
+80
+MIGHT
+2
+HATE
+10
+PARRY
+—
+ARMOUR
+3
+COMBAT PROFICIENCIES: Crush 3 (6/12, Seize),
+Bite 2 (6/14, Pierce)
+FELL ABILITIES: Strike Fear. Spend 1 Hate to make all
+Player-heroes
+in sight gain 2 Shadow points (Dread).
+Those who fail their Shadow test are daunted and cannot
+spend Hope for the rest of the fight.
+Thick Hide. Spend 1 Hate point to gain (2d) on a
+Protection roll.
+
+Cave-troll Slinker
+Used to live in the depths
+of the earth, a Cave-troll Slinker often hunts alone and in
+the dark, relying on its acute sense of smell.
+CAVE-TROLL SLINKER
+Stealthy, Wary
+ATTRIBUTE LEVEL
+6
+ENDURANCE
+50
+MIGHT
+2
+HATE
+6
+PARRY
+—
+ARMOUR
+3
+COMBAT PROFICIENCIES: Club 3 (6/16, Break Shield),
+Bite 2 (6/14, Pierce)
+FELL ABILITIES: Denizen of the Dark. All attack rolls are
+Favoured while in darkness.
+Fear of Fire. The creature loses 1 Hate at the start of
+each round it is engaged in close combat with an adversary
+wielding a torch or other burning item.
+Thick Hide. Spend 1 Hate point to gain (2d) on a
+Protection roll.
+
+Stone-troll Robber
+A Stone-troll Robber’s appearance, while always frightful,
+is made less monstrous by their tendency to wear simple
+clothes, cook their food and use tools like drinking jugs
+and barrels.
+STONE-TROLL ROBBER
+Hungry, Irritable
+ATTRIBUTE LEVEL
+8
+ENDURANCE
+60
+MIGHT
+2
+HATE
+8
+PARRY
+—
+ARMOUR
+3
+COMBAT PROFICIENCIES: Club 3 (6/16, Break Shield),
+Crush 2 (6/12, Seize)
+FELL ABILITIES: Hatred (Dwarves). When fighting Dwarves,
+all the creature’s rolls are Favoured.
+Horrible Strength. If the creature scores a Piercing
+Blow, spend 1 Hate to make the target’s Protection roll
+Ill-favoured.
+
+Stone-troll Chief
+Small groups of Stone-trolls
+may band together around
+a stronger member of their breed, to attack caravans of
+merchants or isolated farmhouses.
+STONE-TROLL CHIEF
+Cruel, Suspicious
+ATTRIBUTE LEVEL
+9
+ENDURANCE
+70
+MIGHT
+2
+HATE
+9
+PARRY
+—
+ARMOUR
+3
+COMBAT PROFICIENCIES: Club 3 (6/16, Break Shield),
+Crush 2 (6/12, Seize)
+FELL ABILITIES: Hatred (Dwarves). When fighting Dwarves,
+all the creature’s rolls are Favoured.
+Horrible Strength. If the creature scores a Piercing
+Blow, spend 1 Hate to make the target’s Protection roll
+Ill-favoured.
+Yell of Triumph. Spend 1 Hate to restore 1 Hate to all
+other Trolls in the fight.
+
+Barrow-wight
+Sent to the hills of Tyrn Gorthad by the Witch-king
+of Angmar
+to plague his enemies in the wars against Arnor, a
+Barrow-wight
+appears as a tall, dark figure, with cold eyes lit
+by a pale light.
+BARROW-WIGHT
+Cunning, Vengeful
+ATTRIBUTE LEVEL
+6
+ENDURANCE
+24
+MIGHT
+1
+HATE
+6
+PARRY
+—
+ARMOUR
+3
+COMBAT PROFICIENCIES: Ancient Sword 3 (5/16, Pierce),
+Chilling Touch 2 (6/12, Seize)
+FELL ABILITIES: Denizen of the Dark. All attack rolls are
+Favoured while in darkness.
+Dreadful Spells. Spend 1 Hate to make one Player-hero
+gain 3 Shadow points (Sorcery). Targets who fail
+their Shadow test or who are Miserable fall unconscious
+and may be roused only with a SONG roll. Otherwise,
+they wake up after one hour.
+Hate Sunlight. The creature loses 1 Hate at the start
+of each round it is exposed to the full light of the sun.
+
+Fell Wraith
+Fell Wraiths appear as crooked wanderers, roaming among
+ancient ruins, wrapped in cloaks hiding their spectral features.
+Their flesh is almost transparent, and their eyes seem
+to glow like embers.
+FELL WRAITH
+Swift, Wary
+ATTRIBUTE LEVEL
+4
+ENDURANCE
+16
+MIGHT
+1
+HATE
+4
+PARRY
++1
+ARMOUR
+2
+COMBAT PROFICIENCIES: Pitted Blade 3 (4/16),
+Cruel Spear 2 (4/14, Pierce)
+FELL ABILITIES: Denizen of the Dark. All attack rolls are
+Favoured while in darkness.
+Fear of Fire. The creature loses 1 Hate at the start of
+each round it is engaged in close combat with an adversary
+wielding a torch or other sort of burning item.
+
+Marsh-dwellers
+The Marsh-dwellers
+are shambling humanoid creatures
+with a clammy pale flesh, like that of a corpse left to rot in
+the water. A fell light in their small eyes suggests a wicked
+vitality and intent.
+MARSH-DWELLERS
+Fierce, Stealthy
+ATTRIBUTE LEVEL
+3
+ENDURANCE
+12
+MIGHT
+1
+HATE
+3
+PARRY
+—
+ARMOUR
+1
+COMBAT PROFICIENCIES: Bite 3 (3/14, Pierce),
+Claws 2 (3/14, Seize)
+FELL ABILITIES: Fear of Fire. The creature loses 1 Hate at the
+start of each round it is engaged in close combat with an
+adversary wielding a torch or other sort of burning item.
+Hate Sunlight. The creature loses 1 Hate at the start of
+each round it is exposed to the full light of the sun.
+
+Wild Wolf
+The average Warg is slightly larger than an
+ordinary Wolf, and much more vicious. It can be encountered
+in a pack, but also as a solitary hunter or scout, ready
+to howl and alert other Wargs and evil creatures for miles
+around.
+WILD WOLF
+Keen-eyed, Grim
+ATTRIBUTE LEVEL
+3
+ENDURANCE
+12
+MIGHT
+1
+HATE
+3
+PARRY
+—
+ARMOUR
+1
+COMBAT PROFICIENCIES: Fangs 3 (3/14, Pierce)
+FELL ABILITIES: Fear of Fire. The creature loses 1 Hate at the
+start of each round it is engaged in close combat with an
+adversary wielding a torch or other sort of burning item.
+Snake-like
+Speed. When targeted by an attack,
+spend 1 Hate to make the attack roll Ill-favoured.
+
+Wolf-chieftain
+Greater in stature, cruelty and cunning than ordinary Wargs,
+a Wolf-chieftain
+is called upon by its lesser kin to deal with
+serious threats, like bands of travelling adventurers trespassing
+into Warg territory.
+WOLF-CHIEFTAIN
+Swift, Vicious
+ATTRIBUTE LEVEL
+4
+ENDURANCE
+16
+MIGHT
+1
+HATE
+4
+PARRY
+—
+ARMOUR
+1
+COMBAT PROFICIENCIES: Fangs 3 (4/14, Pierce),
+Claws 2 (4/14, Seize)
+FELL ABILITIES: Fear of Fire. The creature loses 1 Hate at the
+start of each round it is engaged in close combat with an
+adversary wielding a torch or other sort of burning item.
+Snake-like
+Speed. When targeted by an attack,
+spend 1 Hate to make the attack roll Ill-favoured.
+Howl of Triumph. Spend 1 Hate to restore 1 Hate to
+all other Wargs in the fight.
+
+Hound of Sauron
+Chosen for its ferocity and malicious intelligence, a Hound
+of Sauron is a minion of the Dark Lord, a servant sent on a
+precise errand, be it the gathering of forces for a coming
+war, the hunt for a specific individual, or spying on an area.
+HOUND OF SAURON
+Cunning, Fierce
+ATTRIBUTE LEVEL
+5
+ENDURANCE
+20
+MIGHT
+2
+HATE
+5
+PARRY
++1
+ARMOUR
+2
+COMBAT PROFICIENCIES: Fangs 3 (5/14, Pierce),
+Claws 3 (5/14, Seize)
+FELL ABILITIES: Deadly Wound. Wounded targets make
+an Ill-favoured
+Feat die roll to determine the severity of
+their injury.
+Hideous Toughness. When an attack inflicts damage
+to the creature that would cause it to go to zero Endurance,
+it causes a Piercing Blow instead. Then, if the creature
+is still alive, it returns to full Endurance.
+Strike Fear. Spend 1 Hate to make all Player-heroes
+in sight gain 3 Shadow points (Dread). Those who fail
+their Shadow test are daunted and cannot spend Hope
+for the rest of the fight.
